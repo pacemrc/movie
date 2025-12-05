@@ -1,4 +1,4 @@
-import{r as l,A as L,g as M,j as e,L as b,d as s,e as z,i as E,a as Y}from"./index-BRKAISFI.js";import{T as D}from"./ThemeToggle-29KJfNok.js";const R=s.div`
+import{r as l,A as L,g as M,j as e,L as b,d as s,e as z,i as E,a as Y}from"./index-Cedc9Ux5.js";import{T as D}from"./ThemeToggle-s2QBKYky.js";const R=s.div`
   width: 100%;
   padding: 32px;
   max-width: 1400px;
